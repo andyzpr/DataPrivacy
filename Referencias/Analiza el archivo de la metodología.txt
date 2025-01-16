@@ -1,0 +1,23 @@
+Analiza el archivo de la metodología adjunto a este chat y analiza cada uno de los documentos adjuntos en el proyecto, y dame los datos de los documentos que deben ser seleccionados después de aplicar los criterios de inclusión y exclusión, según el archivo de la metodología expone  para la revisión sistemática.
+Considera analizar los 20 documentos adjuntos en el proyecto, identifícalos por el nombre del documento sin la extensión pdf.
+Ajusta la tabla con los datos del documento al siguiente formato:
+Columnas de Datos extraídos del documento
+1. Ref: El nombre del archivo sin la extensión pdf.
+2, Tipo de documento.
+3. Año: Año de publicado.
+4. Fuente de Indexación. Si está indexada en SJR (SJR), Indexada en JCR (JCR) y si está en ambas (SJR y JCR).
+5. Tema: Tema que presenta.
+6. Propósito: Propósito con el cuál presentan en tema.
+7. Sector: Sector en el que se enfoca la revisión (Salud, Investigación, Administración Pública, etc.)
+8. Fuente de Indexación: Fuente indexada en SJR (SJR), Indexada en JCR (JCR) y si está en ambas (SJR y JCR).
+
+Columnas de evaluación (Sí, No, Parcialmente, No menciona, o en escala del 1 al 5, según sea el caso)
+
+9. Periodo de publicación. Sí: si está dentro de 2015 a 2025, y No: en caso contrario.
+Tema Relacionado con Privacidad: (En escala del 1 al 5)
+10. Fuente indexada en SJR o JCR: (Sí, No, o No tengo acceso)
+11. Sector Clave: (El sector en el que se enfoca es: Salud, Investigación, Administración publica, o cuánto está relacionado con uno de estos sectores: del 1 al 5)
+12. ¿Relevante?: En escala de 1 al 5,. indicar la relevancia que tiene el estudio para nuestra revisión sistemática de la literatura.
+
+
+En Ref coloca el nombre del archivo SIN la extensión pdf.
