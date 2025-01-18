@@ -3,21 +3,20 @@ Considera analizar los 20 documentos adjuntos en el proyecto, identifícalos por
 Ajusta la tabla con los datos del documento al siguiente formato:
 Columnas de Datos extraídos del documento
 1. Ref: El nombre del archivo sin la extensión pdf.
-2, Tipo de documento.
+2, Tipo de documento, artículo de: Revista, conferencia, capítulo delibro, libro, etc. o si es Resumen, resumen extendido, poster, etc.
 3. Año: Año de publicado.
 4. Fuente de Indexación. Si está indexada en SJR (SJR), Indexada en JCR (JCR) y si está en ambas (SJR y JCR).
 5. Tema: Tema que presenta.
-6. Propósito: Propósito con el cuál presentan en tema.
-7. Sector: Sector en el que se enfoca la revisión (Salud, Investigación, Administración Pública, etc.)
-8. Fuente de Indexación: Fuente indexada en SJR (SJR), Indexada en JCR (JCR) y si está en ambas (SJR y JCR).
+6. Marco Regulario: Ley, regulación, normas, políticas, etc., que presenta, se analiza, proponen, aplican, etc.
+7. Propósito: Propósito con el cuál presentan en tema.
+8. Sector: Sector en el que se enfocan (Salud, Investigación, Administración Pública, etc.)
+9. Fuente de Indexación: Fuente indexada en SJR (SJR), Indexada en JCR (JCR) y si está en ambas (SJR y JCR).
 
 Columnas de evaluación (Sí, No, Parcialmente, No menciona, o en escala del 1 al 5, según sea el caso)
 
-9. Periodo de publicación. Sí: si está dentro de 2015 a 2025, y No: en caso contrario.
+10. Periodo de publicación. Sí: si está dentro de 2015 a 2025, y No: en caso contrario.
 Tema Relacionado con Privacidad: (En escala del 1 al 5)
-10. Fuente indexada en SJR o JCR: (Sí, No, o No tengo acceso)
-11. Sector Clave: (El sector en el que se enfoca es: Salud, Investigación, Administración publica, o cuánto está relacionado con uno de estos sectores: del 1 al 5)
-12. ¿Relevante?: En escala de 1 al 5,. indicar la relevancia que tiene el estudio para nuestra revisión sistemática de la literatura.
-
-
-En Ref coloca el nombre del archivo SIN la extensión pdf.
+11. Fuente indexada en SJR o JCR: (Sí, No, o No tengo acceso)
+12. Sector Clave: (El sector en el que se enfoca es: Salud, Investigación, Administración publica, o cuánto está relacionado con uno de estos sectores: del 1 al 5)
+13. ¿Relevante?: En escala de 1 al 5,. indicar la relevancia que tiene el estudio para nuestra revisión sistemática de la literatura.
+14. ¿Incluído?
