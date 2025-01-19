@@ -1,0 +1,21 @@
+Analiza el archivo de la metodología adjunto a este chat y analiza el otro documento adjunto . Analiza muy bien los criterios de inclusión y exclusión, según el archivo de la metodología adjunto aquí, que se expone para la revisión sistemática.
+
+Ajusta la tabla con los datos del documento al siguiente formato:
+Columnas de Datos extraídos del documento:
+1. Ref: El nombre del archivo sin la extensión pdf.
+2, Tipo de documento, artículo de: Revista, conferencia, capítulo delibro, libro, etc. o si es Resumen, resumen extendido, poster, etc.
+3. Año: Año de publicado.
+4. Tema: Sobre el tema que versa el documento.
+5. Marcos Regulatorios (en inglés): Ley, regulación, normas, políticas, etc., que presenta, se analiza, proponen, aplican, etc, por ejemplo el RGPD de la UE, las recomendaciones de la Comisión Europea, las directrices del EDPB y de la AEPD, los pronunciamientos como el del Comité de Bioética de España o el reciente marco europeo sobre digitalización, LEY ORGÁNICA DE PROTECCIÓN DE DATOS PERSONALES del Ecuador o del país que trate en el artículo.
+6. Propósito: Propósito con el cuál presentan en tema.
+7. Sector: Sector en el que se enfocan (Salud, Investigación, Administración Pública, etc.)
+8. Fuente: Nombre de la revista,d el congreso, del libro, etc.
+
+Columnas de evaluación (Sí, No, Parcialmente, No menciona, o en escala del 1 al 5, según sea el caso)
+9. Tema Relacionado con Privacidad: (En escala del 1 al 5)
+10. Sector Clave: El sector en el que se enfoca es: Salud, Investigación, Administración publica, etc.
+11. ¿Relevante?: En escala de 1 al 5, indicar la relevancia que tiene el estudio para nuestra revisión sistemática de la literatura.
+
+Todos los datos deben ser Objetivos y soportados 100% por el respectivo documento. No inventes nada, no infieras nada. Si algún dato no encuentras en el documento, coloca "No Mencionan" o algo al respecto. Debes analizar todos el documento: Texto, gráfico, tablas, imágenes, metadatos, etc.
+
+Dame tu respuesta en una sola tabla en formato que se pueda copiar y pegar como tabla en un documento de Word.

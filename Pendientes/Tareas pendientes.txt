@@ -1,0 +1,5 @@
+Con cada uno de los documentos de la IEEE (Ya deben estar filtardos que no se repitan con la WoS) debes ejecutar el "Primer Prompt" le adjuntas el documento pdf Metodología y el documento que quieres que te analice. El documento metodología se encuentra dentro de la carpera DataPrivacy. Una vez que te vote los resultados, pides que: 
+
+"Analiza nuevamente el documento para que asegures que los datos son correctos y que se encuentran en el documento."
+
+Y para los siguientes documentos le dices el "Segundo Prompt"
